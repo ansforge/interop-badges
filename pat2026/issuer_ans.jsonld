@@ -1,0 +1,10 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/issuer_ans.jsonld",
+  "name": "Agence du Numérique en Santé (ANS)",
+  "url": "https://esante.gouv.fr",
+  "email": "ci-sis@esante.gouv.fr",
+  "description": "L'Agence du Numérique en Santé pilote la transformation numérique du système de santé français, notamment en matière d'interopérabilité des systèmes d'information de santé.",
+  "image": "https://ansforge.github.io/interop-badges/pat2026/images/logo-ans.png"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/participant-projectathon-2026.jsonld",
+  "name": "Participant Projectathon ANS 2026",
+  "description": "Ce badge atteste de la participation active aux tests d'interopérabilité du Projectathon ANS 2026, organisé par l'Agence du Numérique en Santé du 10 au 12 mars 2026. Le titulaire a contribué à des tests en conditions réelles dans le cadre du Cadre d'Interopérabilité des Systèmes d'Information de Santé (CI-SIS) et des standards européens d'interopérabilité.",
+  "image": "https://ansforge.github.io/interop-badges/pat2026/images/participant-projectathon-2026.png",
+  "criteria": {
+    "type": "Criteria",
+    "id": "https://interop.esante.gouv.fr/projectathon-2026",
+    "narrative": "Pour obtenir ce badge, le participant doit :\n- Être inscrit et avoir participé au Projectathon ANS 2026 (10-12 mars 2026)"
+  },
+  "issuer": "https://ansforge.github.io/interop-badges/pat2026/issuer_ans.jsonld",
+  "tags": [
+    "interopérabilité",
+    "CI-SIS",
+    "FHIR",
+    "e-santé",
+    "projectathon",
+    "ANS",
+    "numérique en santé"
+  ],
+  "alignment": [
+    {
+      "type": "AlignmentObject",
+      "targetName": "Cadre d'Interopérabilité des Systèmes d'Information de Santé (CI-SIS)",
+      "targetUrl": "https://esante.gouv.fr/cadre-interoperabilite",
+      "targetDescription": "Référentiel national d'interopérabilité des systèmes d'information de santé en France"
+    }
+  ]
+}
