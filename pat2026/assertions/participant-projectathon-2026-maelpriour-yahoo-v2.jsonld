@@ -1,0 +1,27 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://interop.esante.gouv.fr/badges/assertions/participant-projectathon-2026-maelpriour-yahoo-v2.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "bf48e77963df6624377deeaffa54b168",
+    "identity": "sha256$1ba33ee554fbae048a1e9577f8472420818424a2725994d8f9bff695b9c84103"
+  },
+  "badge": "https://interop.esante.gouv.fr/badges/participant-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://interop.esante.gouv.fr/badges/images/participant-projectathon-2026.png"
+  },
+  "issuedOn": "2026-03-02T12:00:00Z",
+  "evidence": [
+    {
+      "id": "https://interop.esante.gouv.fr/projectathon-2026",
+      "narrative": "Participation validee au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://interop.esante.gouv.fr/badges/assertions/participant-projectathon-2026-maelpriour-yahoo-v2.jsonld"
+  }
+}
