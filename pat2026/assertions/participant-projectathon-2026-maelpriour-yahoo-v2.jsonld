@@ -15,7 +15,6 @@
   "issuedOn": "2026-03-12T18:00:00Z",
   "evidence": [
     {
-      "id": "https://interop.esante.gouv.fr/projectathon-2026",
       "narrative": "Participation validee au Projectathon ANS 2026 du 10 au 12 mars 2026.",
       "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
     }
