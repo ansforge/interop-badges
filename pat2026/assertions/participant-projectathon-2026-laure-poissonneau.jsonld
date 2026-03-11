@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/participant-projectathon-2026-laure-poissonneau.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "77133954036cfe4ed3d59d9cdfeda8ec",
+    "identity": "sha256$f638a84da7cae9ec08d324c8b1473e38102288cdcb3feae4555239cd2f7899d2"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/participant-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-laure-poissonneau.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Participation validee au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/participant-projectathon-2026-laure-poissonneau.jsonld"
+  }
+}

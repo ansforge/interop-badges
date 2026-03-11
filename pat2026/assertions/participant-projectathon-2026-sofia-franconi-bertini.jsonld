@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/participant-projectathon-2026-sofia-franconi-bertini.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "5c2f871069c5c5a7a2e99d9280755e48",
+    "identity": "sha256$25379238a94f8a385baef06e6f961e46dce4ec4028a906d8c7c88452c5b7a8a7"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/participant-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-sofia-franconi-bertini.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Participation validee au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/participant-projectathon-2026-sofia-franconi-bertini.jsonld"
+  }
+}
