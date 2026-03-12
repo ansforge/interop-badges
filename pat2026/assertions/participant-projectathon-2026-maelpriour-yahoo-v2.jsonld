@@ -8,9 +8,9 @@
     "salt": "bf48e77963df6624377deeaffa54b168",
     "identity": "sha256$1ba33ee554fbae048a1e9577f8472420818424a2725994d8f9bff695b9c84103"
   },
-  "badge": "https://ansforge.github.io/interop-badges/pat2026/participant-projectathon-2026.jsonld",
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/atelier-projectathon-2026.jsonld",
   "image": {
-    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-maelpriour-yahoo-v2.png"
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-atelier-maelpriour-yahoo-v2.png"
   },
   "issuedOn": "2026-03-10T08:00:00Z",
   "evidence": [
