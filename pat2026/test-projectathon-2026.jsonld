@@ -1,12 +1,12 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://ansforge.github.io/interop-badges/pat2026/editeur-projectathon-2026.jsonld",
-  "name": "Editeur Projectathon ANS 2026",
-  "description": "Acteur de la e-santé, j'ai testé et validé mes solutions au Projectathon ANS 2026, organisé par l'Agence du Numérique en Santé du 10 au 12 mars 2026.",
-  "image": "https://ansforge.github.io/interop-badges/pat2026/images/editeur-projectathon-2026.png",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/test-projectathon-2026.jsonld",
+  "name": "Test Projectathon ANS 2026",
+  "description": "Acteur de la e-santé, j'ai testé mes solutions au Projectathon ANS 2026, organisé par l'Agence du Numérique en Santé du 10 au 12 mars 2026.",
+  "image": "https://ansforge.github.io/interop-badges/pat2026/images/test-projectathon-2026.png",
   "criteria": {
-    "narrative": "Pour obtenir ce badge, l'éditeur doit :\n- Avoir testé et validé ses solutions au Projectathon ANS 2026 (10-12 mars 2026)"
+    "narrative": "Pour obtenir ce badge, le testeur doit :\n- Avoir testé ses solutions au Projectathon ANS 2026 (10-12 mars 2026)"
   },
   "issuer": "https://ansforge.github.io/interop-badges/pat2026/issuer_ans.jsonld",
   "tags": [

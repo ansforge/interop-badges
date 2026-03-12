@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/test-projectathon-2026-maelpriour-yahoo.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "15e2a7c3664d2be6372499fbbe64ce1b",
+    "identity": "sha256$bbb9b457fcbe3da9ead54a692800a4d90e90c1a73ee6c5e3ed5de3e717e45f95"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/test-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-test-maelpriour-yahoo.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Tests de solutions au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/test-projectathon-2026-maelpriour-yahoo.jsonld"
+  }
+}
