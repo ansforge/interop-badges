@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-yohan-varlet.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "57431a48fa63481bf82f63b98d284f3e",
+    "identity": "sha256$b16b84b5634c1747b6cee9ed0852b7db2b0fd7f0b8a4dd66da1bfb84d9c64200"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-moniteur-yohan-varlet.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Accompagnement des acteurs au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-yohan-varlet.jsonld"
+  }
+}

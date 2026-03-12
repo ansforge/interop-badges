@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-nicolas-arnoux.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "acfe8746b2d067bd88046b9817e344b1",
+    "identity": "sha256$dbb8b09bdbe1afcfc85c05618301b20682a323343d5853b57bb045afadf618c9"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-moniteur-nicolas-arnoux.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Accompagnement des acteurs au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-nicolas-arnoux.jsonld"
+  }
+}

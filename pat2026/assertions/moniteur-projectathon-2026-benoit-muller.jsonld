@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-benoit-muller.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "10e6587f633fe310e8fd9b9938876ced",
+    "identity": "sha256$9127247db5c4f583dd89538cd3c6a23d2b5c1ac90ba3e9724f7f5064aac36edd"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-moniteur-benoit-muller.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Accompagnement des acteurs au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-benoit-muller.jsonld"
+  }
+}

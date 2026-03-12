@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-souad-benmustapha.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "a76e6675105b0f9fecc1498d7f346343",
+    "identity": "sha256$0b80e3e57a6fd8547fdb135ba00d83c9d1b2254456a8f5b319a1e8cf9d39ff42"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-moniteur-souad-benmustapha.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Accompagnement des acteurs au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-souad-benmustapha.jsonld"
+  }
+}

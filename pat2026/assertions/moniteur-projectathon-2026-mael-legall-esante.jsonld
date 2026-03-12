@@ -1,0 +1,26 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-mael-legall-esante.jsonld",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "48d12e4108b678b8ec0e9de2193574fb",
+    "identity": "sha256$b040fcb324402ec86a41d180556154379e577cade65c474cc89a4cd96c7e35d6"
+  },
+  "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
+  "image": {
+    "id": "https://ansforge.github.io/interop-badges/pat2026/baked/badge-moniteur-mael-legall-esante.png"
+  },
+  "issuedOn": "2026-03-10T08:00:00Z",
+  "evidence": [
+    {
+      "narrative": "Accompagnement des acteurs au Projectathon ANS 2026 du 10 au 12 mars 2026.",
+      "name": "Projectathon ANS 2026 - Tests d'interoperabilite CI-SIS"
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-mael-legall-esante.jsonld"
+  }
+}
