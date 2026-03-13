@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-mael-priour-esante.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "6cbe829274cbeb67ea832051b21e2e92",
-    "identity": "sha256$2ed0e620c762506e04ad8acc0fc36de07c75cdce3a8a8f1be1acd4dc6ecf149f"
+    "hashed": false,
+    "identity": "mael.priour@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {
