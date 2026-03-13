@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-alain-perie.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "ccf18743dd3f852b9874d025f2756c9f",
-    "identity": "sha256$b5dfd69a91ef6ab33abc13ca5749048629109f1ae0d10209d641776a9dfb9af7"
+    "hashed": false,
+    "identity": "Alain.PERIE@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

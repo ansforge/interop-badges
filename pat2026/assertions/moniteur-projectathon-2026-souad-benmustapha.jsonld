@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-souad-benmustapha.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "a76e6675105b0f9fecc1498d7f346343",
-    "identity": "sha256$0b80e3e57a6fd8547fdb135ba00d83c9d1b2254456a8f5b319a1e8cf9d39ff42"
+    "hashed": false,
+    "identity": "Souad.BENMUSTAPHA.EXT@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

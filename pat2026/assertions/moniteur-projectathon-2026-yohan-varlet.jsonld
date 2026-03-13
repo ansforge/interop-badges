@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-yohan-varlet.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "57431a48fa63481bf82f63b98d284f3e",
-    "identity": "sha256$b16b84b5634c1747b6cee9ed0852b7db2b0fd7f0b8a4dd66da1bfb84d9c64200"
+    "hashed": false,
+    "identity": "yohan.varlet@esante-hdf.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

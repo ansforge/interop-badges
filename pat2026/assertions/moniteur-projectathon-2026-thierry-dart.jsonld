@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-thierry-dart.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "843ddd9c07002c823e3c32eaa7940a00",
-    "identity": "sha256$65364c0fe6cff1e84f9ef26724c99b976fac446a818d30470c7b029e060599f3"
+    "hashed": false,
+    "identity": "Thierry.DART@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

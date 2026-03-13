@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-nicolas-arnoux.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "acfe8746b2d067bd88046b9817e344b1",
-    "identity": "sha256$dbb8b09bdbe1afcfc85c05618301b20682a323343d5853b57bb045afadf618c9"
+    "hashed": false,
+    "identity": "Nicolas.ARNOUX@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

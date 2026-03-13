@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-sylvain-demey.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "b98c44dc1b743f791b32d6eaffa2a314",
-    "identity": "sha256$1361b19d249b6066e7fc681efa276bd5722486e0dfe13ab6f53da739877ce1c7"
+    "hashed": false,
+    "identity": "Sylvain.DEMEY@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

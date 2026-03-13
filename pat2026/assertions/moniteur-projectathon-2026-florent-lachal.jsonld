@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-florent-lachal.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "06eecf3ba0fdaf158b146b144248f3de",
-    "identity": "sha256$1de0c97b4dbfdcd833941784301a85d313dadae5e9fd6aaa0ab98faee5377bc1"
+    "hashed": false,
+    "identity": "florent.lachal@esea-na.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

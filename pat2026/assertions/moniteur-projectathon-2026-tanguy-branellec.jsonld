@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-tanguy-branellec.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "9d8087f297993802ad558b61e35b2f14",
-    "identity": "sha256$f3752d620deb92f0d5772f6c7bc37a80ca66ec743549e1919b4137a5634da890"
+    "hashed": false,
+    "identity": "tanguy.branellec@esante-paysdelaloire.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-sofia-franconi-ihe.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "5fda64e67d26d1c39d8bca88a08b9427",
-    "identity": "sha256$ada452e63e88dc045b20027c8a72c3e7f92566e76a44de95effe00ec665d0155"
+    "hashed": false,
+    "identity": "sofia.franconi@ihe-europe.net"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

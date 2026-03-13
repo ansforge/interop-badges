@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-haoura-troudi.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "db477651b7846a7091c1225339554aa5",
-    "identity": "sha256$15e30dd89f0701e88ec6ebba17eb2d91e4162ada3e0e7bc6cfd39b4c633c1ebe"
+    "hashed": false,
+    "identity": "Haoura.TROUDI.EXT@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

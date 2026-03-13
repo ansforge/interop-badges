@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-laure-poissonneau-esante.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "df5d693d356a3ff93e67a5853fe0f1b1",
-    "identity": "sha256$881fc242e8004d93489cf1a6aff6a78acfd08887b25b1e9464d5d8869626a374"
+    "hashed": false,
+    "identity": "laure.poissonneau@esante-paysdelaloire.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

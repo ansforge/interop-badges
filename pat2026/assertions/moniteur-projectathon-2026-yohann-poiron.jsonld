@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-yohann-poiron.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "9c2909bac47bb03a331713828c747660",
-    "identity": "sha256$65a6015abcd0d7399a49d5abfa61f37b786b7b9ebd28dbd4d0c1701c4e80e990"
+    "hashed": false,
+    "identity": "Yohann.POIRON@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

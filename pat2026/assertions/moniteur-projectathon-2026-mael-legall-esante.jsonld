@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-mael-legall-esante.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "48d12e4108b678b8ec0e9de2193574fb",
-    "identity": "sha256$b040fcb324402ec86a41d180556154379e577cade65c474cc89a4cd96c7e35d6"
+    "hashed": false,
+    "identity": "Mael.LE-GALL@esante.gouv.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

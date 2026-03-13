@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-clotaire-delanchy.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "8af86c5ae4d95b60e67a1356c09cb8b0",
-    "identity": "sha256$7f89b414369d4814261e0526baf7a8ff8e44e2f382c3175e3bf72f73c47a2d64"
+    "hashed": false,
+    "identity": "clotaire.delanchy@esante-bretagne.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

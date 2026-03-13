@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-benoit-muller.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "10e6587f633fe310e8fd9b9938876ced",
-    "identity": "sha256$9127247db5c4f583dd89538cd3c6a23d2b5c1ac90ba3e9724f7f5064aac36edd"
+    "hashed": false,
+    "identity": "benoit.muller@esante-paysdelaloire.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {

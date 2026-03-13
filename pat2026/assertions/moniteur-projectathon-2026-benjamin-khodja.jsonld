@@ -4,9 +4,8 @@
   "id": "https://ansforge.github.io/interop-badges/pat2026/assertions/moniteur-projectathon-2026-benjamin-khodja.jsonld",
   "recipient": {
     "type": "email",
-    "hashed": true,
-    "salt": "9c13be00beeb67c6d36d18498ac8dfe9",
-    "identity": "sha256$ad711758491f2876ae0e73a2e8589e123441bf845a55a99038d0404b21996635"
+    "hashed": false,
+    "identity": "benjamin.khodja@esea-na.fr"
   },
   "badge": "https://ansforge.github.io/interop-badges/pat2026/moniteur-projectathon-2026.jsonld",
   "image": {
